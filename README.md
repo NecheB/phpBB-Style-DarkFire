@@ -5,9 +5,13 @@ Style Name: [DarkFire]([https://phpbb-bg.info/forums/viewtopic.php?t=1679](https
 
 Author: NecheB © [phpBB Bulgaria](https://phpbb-bg.info/).
 
-Style Description: DarkFire is a phpBB forum style inspired by the popular game Farming Simulator. This style provides a fresh and attractive design, perfect for gaming communities related to farming simulators. phpBB Version: 3.3.15
+Style Description: 
+🔥 DarkFire – A Modern and Dynamic phpBB Style
+DarkFire is a modern and dynamic phpBB style that can be used for various themes – gaming, technology, movies, community discussions, and more.
 
-Any bugs report here in the topic or [HERE](https://phpbb-bg.info/forums/viewforum.php?f=80).
+❗ Support and Issue Reporting:
+🔹 Extensions – If an extension is not displaying correctly or you need styling adjustments to match the theme, please post your request in the [Support Forum](https://phpbb-bg.info/forums/viewforum.php?f=80) 🚀.
+🔹 Bugs & Improvements – If you notice any issues with the style or have suggestions for improvements, please report in the [Support Forum](https://phpbb-bg.info/forums/viewforum.php?f=80) 🚀.
 
 phpBB Version: 3.3.15
 
