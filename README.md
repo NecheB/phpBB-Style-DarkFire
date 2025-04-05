@@ -10,7 +10,9 @@ Style Description:
 DarkFire is a modern and dynamic phpBB style that can be used for various themes – gaming, technology, movies, community discussions, and more.
 
 ❗ Support and Issue Reporting:
+
 🔹 Extensions – If an extension is not displaying correctly or you need styling adjustments to match the theme, please post your request in the [Support Forum](https://phpbb-bg.info/forums/viewforum.php?f=80) 🚀.
+
 🔹 Bugs & Improvements – If you notice any issues with the style or have suggestions for improvements, please report in the [Support Forum](https://phpbb-bg.info/forums/viewforum.php?f=80) 🚀.
 
 phpBB Version: 3.3.15
