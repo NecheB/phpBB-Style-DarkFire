@@ -1,0 +1,31 @@
+<script language="JavaScript">
+<!--
+function random_imglink(){
+var myimages=new Array()
+
+
+
+myimages[1]="https://i.imgur.com/xNPAxRj.png"
+myimages[2]="https://i.imgur.com/nNplceS.gif"
+myimages[3]="https://i.imgur.com/iP5TEkf.png"
+
+
+
+var imagelinks=new Array()
+
+
+imagelinks[1]="https://amxx-bg.info/"
+imagelinks[2]="https://phpbb-bg.info/"
+imagelinks[3]="https://gamerbg.info/"
+
+
+var ry=Math.floor(Math.random()*myimages.length)
+
+if (ry==0)
+ry=1
+document.write('<a href='+'"'+imagelinks[ry]+'"'+' target="_blank"><img style="display: inline-block; max-width: 100%;" src="'+myimages[ry]+'" border=0></a>')
+}
+
+random_imglink()
+//-->
+</script>
