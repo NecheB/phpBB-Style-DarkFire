@@ -15,7 +15,7 @@ DarkFire is a modern and dynamic phpBB style that can be used for various themes
 
 🔹 Bugs & Improvements – If you notice any issues with the style or have suggestions for improvements, please report in the [Support Forum](https://phpbb-bg.info/forums/viewforum.php?f=80) 🚀.
 
-phpBB Version: 3.3.15
+phpBB Version: 3.3.17
 
 Screenshots
 ![DarkFire Screenshots](https://i.imgur.com/zh9iJRR.png)
