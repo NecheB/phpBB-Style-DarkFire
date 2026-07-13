@@ -947,7 +947,7 @@ box-shadow: 0px 1px 3px #000;
 /* Responsive tabs
 ----------------------------------------*/
 .responsive-tab .responsive-tab-link:before {
-	border-color: #FFFFFF;
+	border-color: #536482;
 }
 
 .responsive-tab .responsive-tab-link:hover:before {
@@ -1032,20 +1032,7 @@ box-shadow: 0px 1px 3px #fff;
 @media only screen and (max-width: 900px), only screen and (max-device-width: 900px)
 {
 	#navigation a, .rtl #navigation a {
-		background: rgba(44,96,145,1);
-background: -moz-linear-gradient(-45deg, rgba(44,96,145,1) 50%, rgba(42,42,42,1) 50%);
-background: -webkit-gradient(left top, right bottom, color-stop(50%, rgba(44,96,145,1)), color-stop(50%, rgba(42,42,42,1)));
-background: -webkit-linear-gradient(-45deg, rgba(44,96,145,1) 50%, rgba(42,42,42,1) 50%);
-background: -o-linear-gradient(-45deg, rgba(44,96,145,1) 50%, rgba(42,42,42,1) 50%);
-background: -ms-linear-gradient(-45deg, rgba(44,96,145,1) 50%, rgba(42,42,42,1) 50%);
-background: linear-gradient(135deg, rgba(44,96,145,1) 50%, rgba(42,42,42,1) 50%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c6091', endColorstr='#2a2a2a', GradientType=1 );
-border-top: 1px solid #fff;
-border-bottom: 1px solid #fff;
-border-left: 1px solid #fff;
-border-right: 1px solid #fff;
-box-shadow: 0px 1px 3px #fff;
-	color: #FFFFFF;
+		background: #B2C2CF;
 	}
 }
 

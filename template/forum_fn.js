@@ -650,7 +650,7 @@ function parseDocument($container) {
 				html = $children.html();
 			}
 
-			$block.append((first ? '' : '<br>') + html);
+			$block.append((first ? '' : '<br />') + html);
 
 			first = false;
 		});
@@ -670,7 +670,7 @@ function parseDocument($container) {
 
 		// Find all headers, get contents
 		$list.prev('.topiclist').find('li.header dd').not('.mark').each(function() {
-			headers.push($("<div>").text($(this).text()).html());
+			headers.push($(this).text());
 			headersLength++;
 		});
 
@@ -707,7 +707,7 @@ function parseDocument($container) {
 					html = headers[i] + ': <strong>' + html + '</strong>';
 				}
 
-				$block.append((first ? '' : '<br>') + html);
+				$block.append((first ? '' : '<br />') + html);
 
 				first = false;
 			});
@@ -773,9 +773,7 @@ function parseDocument($container) {
 				}
 
 				if ((text.length && text !== '-') || cell.children().length) {
-					if (headers[column].length) {
-						cell.prepend($("<dfn>").css('display', 'none').text(headers[column]));
-					}
+					cell.prepend('<dfn style="display: none;">' + headers[column] + '</dfn>');
 				} else {
 					cell.addClass('empty');
 				}
